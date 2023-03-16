@@ -2,10 +2,15 @@
   "github.com": {
     "nodejs": {
       "security-wg": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 7,
+            "date": "2023-02-21"
+          }
+        ],
         "current": {
-          "score": 7,
-          "date": "2023-02-21"
+          "score": 7.1,
+          "date": "2023-03-15"
         }
       },
       "undici": {
@@ -33,11 +38,15 @@
           {
             "score": 6.8,
             "date": "2022-11-28"
+          },
+          {
+            "score": 6.5,
+            "date": "2023-03-01"
           }
         ],
         "current": {
-          "score": 6.5,
-          "date": "2023-03-01"
+          "score": 6.8,
+          "date": "2023-03-13"
         }
       }
     }
